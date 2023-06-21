@@ -50,7 +50,7 @@ p {
     font-size: 16px;
 }
 
-.hero { 
+.hero {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
@@ -198,6 +198,3 @@ p {
 .footer h2 {
     font-size: 20px;
 }
-
-
-/* Classes begin with a . and id's begin with a # */
