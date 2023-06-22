@@ -57,7 +57,7 @@ N/A
 
 ## Usage
 
-Horiseon's website educates users on SEO, Online Reputation Management, and Social Media Marketing.
+Horiseon's website educates users on how to run a company by managing their online website. SEO, Online Reputation Management, and Social Media Marketing are all important in any company's growth. 
 
 ## Credits
 
