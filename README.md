@@ -61,11 +61,12 @@ Horiseon's website educates users on how to run a company by managing their onli
 
 ## Credits
 
-N/A
+https://github.com/coding-boot-camp/urban-octo-telegram - Starter Code
+https://www.w3schools.com/html/html5_semantic_elements.asp - Helped with the semantics syntax.
 
 ## License
 
-N/A
+MIT License
 
 ---
 
