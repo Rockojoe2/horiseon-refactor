@@ -4,7 +4,8 @@
     margin: 0;
 }
 
-.header {
+/* Took out the . to make it not a class but an element */
+header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
@@ -15,16 +16,18 @@ body {
     background-color: #d9dcd6;
 }
 
-.header h1 {
+/* Took out the . to make it not a class but an element */
+header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
-.header h1 .seo {
+/* Took out the . to make it not a class but an element */
+header h1 .seo {
     color: #d9dcd6;
 }
 
-.header div {
+header div {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -32,30 +35,20 @@ body {
     font-size: 20px;
 }
 
-.header div ul {
+/* Changed into an element from class and took out .header div */
+ul {
 
     list-style-type: none;
+    text-align: right;
 }
 
-.header div ul li {
+/* Changed into an element from class and took out .header div ul */
+li {
     display: inline-block;
     margin-left: 25px;
 }
 
-/* Added ul here */
-ul {
-    text-align: right;
-  }
-
-/* Added li here */
-li {
-    display: inline-block;
-    list-style-type: none;  
-    font-size: 20px;
-    margin-right: 20px;
-    margin-left: 20px;
-  }
-
+  
 a {
     color: #ffffff;
     text-decoration: none;
@@ -168,6 +161,8 @@ p {
     text-align: center;
 }
 
-.footer h2 {
+/*Changed to footer h4*/
+
+.footer h4 {
     font-size: 20px;
 }
